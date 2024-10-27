@@ -5,27 +5,27 @@
 This project is a personal finance application that allows you to track your income and expenses, categorise transactions and assign them to specific accounts, transfer transactions to the project using a CSV file, and connect to your bank accounts through Plaid. 
 
 ## 🎯 Project Features:
-📊 **Interactive financial dashboard:** Allows users to view financial data with interactive charts.
-🔁 **Changeable chart types:** Provides options to change chart types. 
-🗓 **Account and date filters:** Enables filtering by account and date
-💹 **Detailed transactions table:** Displays a detailed transaction list in table format.
-➕ **Form to add transactions:** Includes a form to add new transactions.
-🧩 **Customizable select components:** Customizes selection components based on user preferences.
-💵 **Income and expense toggle:** Switches between income and expense views.
-🔄 **CSV transaction imports:** Allows importing transaction data in CSV format.
-🔥 **API via Hono.js:** Provides a fast and reliable API with Hono.js.
-🪝 **State management via Tanstack React Query:** Manages state with Tanstack React Query.
-🔗 **Bank account connections with Plaid:** Allows connecting bank accounts via Plaid.
-💳 **Premium upgrades via Lemon Squeezy:** Enables premium upgrades through Lemon Squeezy.
-🔐 **Authentication via Clerk (Core 2):** Secures user authentication with Clerk Core 2.
-🗑 **Bulk delete and search in transactions:** Supports bulk delete and search within transactions.
-⚙️ **Bank disconnection and subscription management:** Manages bank disconnection and subscription settings.
-👤 **User settings customization:** Allows customization of user settings.
-🌐 **Built with Next.js 14:** Developed with Next.js 14.
-🎨 **Styled with TailwindCSS and Shadcn UI:** Uses TailwindCSS and Shadcn UI for design.
-💾 **PostgreSQL & Drizzle ORM:** Utilizes PostgreSQL as the database and Drizzle as the ORM.
+- 📊 **Interactive financial dashboard:** Allows users to view financial data with interactive charts.
+- 🔁 **Changeable chart types:** Provides options to change chart types. 
+- 🗓 **Account and date filters:** Enables filtering by account and date
+- 💹 **Detailed transactions table:** Displays a detailed transaction list in table format.
+- ➕ **Form to add transactions:** Includes a form to add new transactions.
+- 🧩 **Customizable select components:** Customizes selection components based on user preferences.
+- 💵 **Income and expense toggle:** Switches between income and expense views.
+- 🔄 **CSV transaction imports:** Allows importing transaction data in CSV format.
+- 🔥 **API via Hono.js:** Provides a fast and reliable API with Hono.js.
+- 🪝 **State management via Tanstack React Query:** Manages state with Tanstack React Query.
+- 🔗 **Bank account connections with Plaid:** Allows connecting bank accounts via Plaid.
+- 💳 **Premium upgrades via Lemon Squeezy:** Enables premium upgrades through Lemon Squeezy.
+- 🔐 **Authentication via Clerk (Core 2):** Secures user authentication with Clerk Core 2.
+- 🗑 **Bulk delete and search in transactions:** Supports bulk delete and search within transactions.
+- ⚙️ **Bank disconnection and subscription management:** Manages bank disconnection and subscription settings.
+- 👤 **User settings customization:** Allows customization of user settings.
+- 🌐 **Built with Next.js 14:** Developed with Next.js 14.
+- 🎨 **Styled with TailwindCSS and Shadcn UI:** Uses TailwindCSS and Shadcn UI for design.
+- 💾 **PostgreSQL & Drizzle ORM:** Utilizes PostgreSQL as the database and Drizzle as the ORM.
   
-## 🚀 nNecessary:
+## 🚀 Necessary:
 
 - **Node version:** 14.X
 
