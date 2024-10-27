@@ -34,7 +34,7 @@ This project is a personal finance application that allows you to track your inc
 Use the following command to clone the repository:
 
 ```shell
-(https://github.com/DogukanErzurum/finance.git)
+https://github.com/DogukanErzurum/finance.git
 ```
 
 ## 📦 Installing Packages:
